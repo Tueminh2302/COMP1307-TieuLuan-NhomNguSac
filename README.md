@@ -22,4 +22,4 @@ Kho quản lý công việc và tài liệu tiểu luận môn COMP1307
 - Phối hợp, rà soát và cập nhật kết quả trong học kỳ.
 
 ## 4. Liên kết
-- Bảng công việc: [Dán link GitHub Projects]
+- Bảng công việc: [[Dán link GitHub Projects]](https://github.com/users/Tueminh2302/projects/2)
